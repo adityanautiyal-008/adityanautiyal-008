@@ -1,36 +1,81 @@
-# Hi, I'm Aditya Nautiyal 👋
-
-Mechanical Engineering student with a curiosity that doesn't stay in one lane.  
-I explore beyond my branch — learning, building, and figuring things out as I go.
-
----
-
-### 📖 Currently Learning
-- Exploring fields beyond mechanical engineering
-- Getting hands-on with tech, tools, and real-world problem solving
+<!-- HEADER ANIMATION -->
+<h1 align="center">Hi 👋, I'm Aditya Nautiyal</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineering+Student;Embedded+Systems+Developer;Building+Real+World+Tech;Innovating+for+Impact&center=true&width=500&height=50">
+</h3>
 
 ---
 
-### 🚀 Projects
-- **GroundPulse** — A ground-based device designed to serve as an essential component for rescue missions *(in progress with team)*
+## 🚀 About Me
+- 🎓 B.Tech Mechanical Engineering Student  
+- 🛠️ Passionate about **Embedded Systems & Real-world Engineering**  
+- 🚀 Interested in **Space Tech & Defense Systems**  
+- 🌱 Currently learning **IoT, Thermodynamics and pretty much everything out there✌️...**  
 
 ---
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Nautiyal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-nautiyal-bb0030378)
+## 🌍 Featured Project
+
+### 🔥 GroundPulse — Subsurface Human Detection System  
+🔗 https://github.com/adityanautiyal-008/GROUNDPULSE  
+
+💡 A low-cost system for **detecting human presence under debris** using seismic + acoustic sensing.
+
 
 ---
-# 💫 About Me:
-Hi! This is Aditya Nautiyal, a first-year BTech student at Graphic Era Hill University, Dehradun, specializing in Mechanical Engineering. My passion for engineering began in childhood, inspired by the marvels of space exploration and defense technology—aircrafts, vehicles, and everything in between.<br><br>While I’m just starting my academic journey, I’m eager to explore and develop skills in design, mechanics, and innovation. I believe in learning by doing and look forward to engaging in hands-on projects, internships, and collaborations that align with my interests.<br><br>Outside the classroom, I’m a dedicated football player, always up for a challenge on the field. I value teamwork, discipline, and continuous growth—both academically and personally......
+
+## 🛠️ Tech Stack
+
+### 🔌 Hardware that I've worked on:
+![ESP32](https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-0A0A0A?style=for-the-badge)
+
+### 💻 Programming languages used so far:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityanautiyal-008&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanautiyal-008&theme=tokyonight" height="150">
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityanautiyal-008&theme=tokyo-night">
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 Building **impact-driven engineering projects**
+- ⚙️ Working on **hardware-based innovations**
+- 🧠 Learning **advanced sensing & detection systems**
+- 🚀 Exploring **embedded AI & robotics**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/adityanautiyal-008">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_nautiyaal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anaudiyal80@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-
-
-
-
-*Always open to learning something new.*
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
+</p>
