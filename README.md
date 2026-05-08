@@ -21,20 +21,31 @@
 
 💡 A low-cost system for **detecting human presence under debris** using seismic + acoustic sensing.
 
+### 🏭 InduSafe — Industrial Safety System 
+🔗 https://github.com/adityanautiyal-008/Indusafe  
 
+A system that enables real-time human–machine coordination to ensure adaptive industrial safety.
+#### 🚧 Currently under development 🚧
 ---
+
 
 ## 🛠️ Tech Stack
 
-### 🔌 Hardware that I've worked on:
+### 🔌 Hardware I've worked on:
 ![ESP32](https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-0A0A0A?style=for-the-badge)
 
-### 💻 Programming languages used so far:
+---
+
+### Programming languages used so far:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -60,7 +71,7 @@
 - 🔬 Building **impact-driven engineering projects**
 - ⚙️ Working on **hardware-based innovations**
 - 🧠 Learning **advanced sensing & detection systems**
-- 🚀 Exploring **embedded AI & robotics**
+- 🚀 Exploring **Key mechanical topics & robotics**
 
 ---
 
