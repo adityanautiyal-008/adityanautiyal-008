@@ -21,13 +21,6 @@
 
 💡 A low-cost system for **detecting human presence under debris** using seismic + acoustic sensing.
 
-### 🏭 InduSafe — Industrial Safety System 
-🔗 https://github.com/adityanautiyal-008/Indusafe  
-
-A system that enables real-time human–machine coordination to ensure adaptive industrial safety.
-#### 🚧 Currently under development 🚧
----
-
 
 ## 🛠️ Tech Stack
 
